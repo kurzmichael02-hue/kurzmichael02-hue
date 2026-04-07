@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hey, I'm Michael 👋
 
-<!--
-**kurzmichael02-hue/kurzmichael02-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fullstack dev based in Germany. Currently in a dual study program (B.Sc. IT, DHBW Mannheim, graduating Nov 2027), working at Logicalis GmbH and co-founding MultiMesh with a small international team on the side.
 
-Here are some ideas to get you started:
+Building personal projects in Web3, backend and frontend alongside my studies. Planning to relocate after graduation and keep working fully remote for international companies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Open to **full-time · part-time · contract**.
+
+---
+
+**[MultiMesh](https://github.com/kurzmichael02-hue/multimesh)** — cross-chain swap aggregator, live on mainnet  
+**[FundFlow](https://github.com/kurzmichael02-hue/fundflow)** — Web3 SaaS CRM for founders  
+**[WhaleTrack](https://github.com/kurzmichael02-hue/whaletrack)** — real-time crypto dashboard  
+
+More on my [LinkedIn](https://linkedin.com/in/michael-kurz-4a844a239) and under Repositories.
+
+---
+
+🇩🇪 native · 🇷🇺 native · 🇬🇧 conversational  
+kurzmichael02@gmail.com

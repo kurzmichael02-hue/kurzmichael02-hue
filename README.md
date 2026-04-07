@@ -4,7 +4,7 @@ Fullstack dev based in Germany. Currently in a dual study program (B.Sc. IT, DHB
 
 Building personal projects in Web3, backend and frontend alongside my studies. Planning to relocate after graduation and keep working fully remote for international companies.
 
-Open to **full-time · part-time · contract**.
+Open to **full-time · part-time · contract** — available to work from Russia.
 
 ---
 
@@ -16,5 +16,5 @@ More on my [LinkedIn](https://linkedin.com/in/michael-kurz-4a844a239) and under 
 
 ---
 
-🇩🇪 native · 🇷🇺 native · 🇬🇧 conversational  
+🇩🇪 native · 🇷🇺 native · 🇬🇧 English conversational  
 kurzmichael02@gmail.com

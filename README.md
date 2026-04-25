@@ -8,13 +8,13 @@ Open to **full-time · part-time · contract** — remote only · available to w
 
 ---
 
-**MultiMesh** — cross-chain swap aggregator, live on mainnet  
+**MultiMesh** — cross-chain swap aggregator, live on mainnet *(private repo)*  
 **FundFlow** — Web3 SaaS CRM for founders  
 **WhaleTrack** — real-time crypto dashboard  
 
-More on my [LinkedIn](https://linkedin.com/in/michael-kurz-4a844a239) and under Repositories.
+More on my [LinkedIn](https://linkedin.com/in/michael-kurz-4a844a239).
 
 ---
 
 🇩🇪 native · 🇷🇺 native · 🇬🇧 conversational  
-kurzmichael02@gmail.com
+[kurzmichael02@gmail.com](mailto:kurzmichael02@gmail.com)

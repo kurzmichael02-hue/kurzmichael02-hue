@@ -8,7 +8,7 @@ Open to **full-time · part-time · contract** — remote only · available to w
 
 ---
 
-**[MultiMesh](https://themultimesh.com)** — cross-chain swap aggregator, live on mainnet  
+**[MultiMesh](https://themultimesh.com)** — cross-chain swap aggregator, live on mainnet *(private repo)* 
 **[FundFlow](https://fundflow-omega.vercel.app)** — Web3 SaaS CRM for founders  
 **[WhaleTrack](https://whaletrack-ashen.vercel.app)** — real-time crypto dashboard  
 

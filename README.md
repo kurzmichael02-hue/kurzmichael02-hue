@@ -8,13 +8,15 @@ Open to **full-time · part-time · contract** — remote only · available to w
 
 ---
 
-**MultiMesh** — cross-chain swap aggregator, live on mainnet  
-**FundFlow** — Web3 SaaS CRM for founders  
-**WhaleTrack** — real-time crypto dashboard  
+**[MultiMesh](https://themultimesh.com)** — cross-chain swap aggregator, live on mainnet *(private repo)* 
 
-More on my [LinkedIn](https://linkedin.com/in/michael-kurz-4a844a239) and under Repositories.
+**[FundFlow](https://fundflow-omega.vercel.app)** — Web3 SaaS CRM for founders  
+
+**[WhaleTrack](https://whaletrack-ashen.vercel.app)** — live on-chain whale transaction feed
+
+More on my [LinkedIn](https://linkedin.com/in/michael-kurz-4a844a239).
 
 ---
 
 🇩🇪 native · 🇷🇺 native · 🇬🇧 conversational  
-kurzmichael02@gmail.com
+[kurzmichael02@gmail.com](mailto:kurzmichael02@gmail.com)

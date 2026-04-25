@@ -9,8 +9,8 @@ Open to **full-time · part-time · contract** — remote only · available to w
 ---
 
 **[MultiMesh](https://themultimesh.com)** — cross-chain swap aggregator, live on mainnet  
-**FundFlow** — Web3 SaaS CRM for founders  
-**WhaleTrack** — real-time crypto dashboard  
+**[FundFlow](https://fundflow-omega.vercel.app)** — Web3 SaaS CRM for founders  
+**[WhaleTrack](https://whaletrack-ashen.vercel.app)** — real-time crypto dashboard  
 
 More on my [LinkedIn](https://linkedin.com/in/michael-kurz-4a844a239).
 

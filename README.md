@@ -8,7 +8,7 @@ Open to **full-time · part-time · contract** — remote only · available to w
 
 ---
 
-**MultiMesh** — cross-chain swap aggregator, live on mainnet *(private repo)*  
+**[MultiMesh](https://themultimesh.com)** — cross-chain swap aggregator, live on mainnet  
 **FundFlow** — Web3 SaaS CRM for founders  
 **WhaleTrack** — real-time crypto dashboard  
 

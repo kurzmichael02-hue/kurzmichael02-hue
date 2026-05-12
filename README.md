@@ -1,6 +1,6 @@
 # Hey, I'm Michael 👋
 
-Fullstack developer based in Germany. Co-founding MultiMesh — a cross-chain swap aggregator live on mainnet — with a small international team.
+Fullstack developer based in Germany.
 
 Building across the full stack: backend APIs, frontend interfaces, Web3 integrations.
 

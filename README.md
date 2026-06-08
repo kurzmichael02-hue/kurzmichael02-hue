@@ -13,7 +13,6 @@ Open to **full-time · part-time · contract** — remote only · available to w
 
 **[FundFlow](https://fundflow-omega.vercel.app)** — Web3 SaaS CRM for founders  
 
-**[WhaleTrack](https://whaletrack-ashen.vercel.app)** — live on-chain whale transaction feed
 
 More on my [LinkedIn](https://linkedin.com/in/michael-kurz-4a844a239).
 

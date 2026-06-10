@@ -5,7 +5,8 @@ Fullstack developer from Germany. Building commercially since 2022 — Junior De
 I went into fullstack because owning just one slice of a product was never enough. Understanding how every layer fits together sharpens everything I ship.
 
 
-Open to **full-time · part-time · contract** — remote only · available to work from Russia.
+Open to **full-time · part-time · contract** — remote only · available worldwide
+
 
 ---
 

@@ -8,7 +8,5 @@ I went fullstack because owning one slice of a product was never enough. Taking
 an idea from an empty repo to a live product people actually use, with nothing
 in between left as a black box, is the part I genuinely enjoy.
 
-Open for remote roles (full-time, part-time, contract)
-
 LinkedIn: linkedin.com/in/michael-kurz-4a844a239 · kurzmichael02@gmail.com
 
